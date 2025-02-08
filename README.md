@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeDebanjan
 - 👀 I’m interested in AI ML, DATA SCIENCE
 - 🌱 I’m currently learning python and c
--     I'm in my 1st year in college. 
+-  I'm in my 1st year in college. 
 - 💞️ I’m looking to collaborate.
 - 📫 you can reach me through debanjanmondal413@gmail.com
 - 😄 Pronouns:he/him
