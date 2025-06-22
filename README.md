@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate.
 - 📫 you can reach me through ami.debanjanmondal@gmail.com
 - 😄 Pronouns:he/him
-- ⚡ Fun fact:I am foodie and likes to make new projects !!
+- ⚡ Fun fact:I am foodie and I like to make new projects !!
 
 <!---
 CodeDebanjan/CodeDebanjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
